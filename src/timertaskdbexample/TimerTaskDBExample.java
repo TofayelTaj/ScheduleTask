@@ -21,7 +21,7 @@ public class TimerTaskDBExample {
                 System.out.println("................Employee............................");
                 System.out.println("Id : " + rs.getString("id"));
                 System.out.println("Name : " + rs.getString("name"));
-                System.out.println("................Employee.........................");
+             
             }
 
         } catch (Exception ex) {
